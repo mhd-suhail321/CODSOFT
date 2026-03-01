@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Data & Models
+# Keep the CSV if small, but ignore if very large
+# titanic_model.pkl (Optional: keeping it is fine for small projects)
