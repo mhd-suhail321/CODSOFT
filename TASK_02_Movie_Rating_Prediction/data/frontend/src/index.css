@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Ensure the body takes full height and has a dark base */
+@layer base {
+  body {
+    @apply bg-[#050505] text-white antialiased overflow-hidden;
+  }
+}
+
+/* Custom Scrollbar for a "Pro" look */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #222;
+  border-radius: 10px;
+}
