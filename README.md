@@ -1,7 +1,7 @@
 # 🚀 CodSoft Data Science Internship Portfolio
 ### **Mohamed Suhail Afreeth** | March 2026 Batch
 [![GitHub Stars](https://img.shields.io/github/stars/mhd-suhail321/CODSOFT?style=social)](https://github.com/mhd-suhail321/CODSOFT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-suhail-afreeth-a3724a324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Welcome to my official internship repository! Here, I have documented 5 end-to-end Data Science projects, each featuring high-performance Machine Learning models and custom-built interactive dashboards.
 
